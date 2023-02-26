@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="http://linktoyourpodcast.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Morning Medicine</title>
+    <description>Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.</description>
+    <copyright>Copyright 2023 Morning Medicine</copyright>
+    <language>en</language>
+    <pubDate>Fri, 6 Feb 2023 23:35:48 PST</pubDate>
+    <lastBuildDate>Fri, 6 Dec 2023 23:35:48 PST</lastBuildDate>
+    <image>
+      <link>http://linktoyourpodcast.com</link>
+      <title>Morning Medicine</title>
+      <url>http://linktoyourpodcast.com/artwork.jpg</url>
+    </image>
+    <link>http://linktoyourpodcast.com</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.</itunes:summary>
+    <itunes:author>Jack Barnum</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://linktoyourpodcast.com/artwork.jpg"/>
+    <itunes:keywords>herbal, medicine, morning, health, herbal medicine, Morning Medicine</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Jack Barnum</itunes:name>
+      <itunes:email>uydihnguyen@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness">
+       <itunes:category text="Medicine" />
+    </itunes:category>
+    <itunes:category text="Health &amp; Fitness">
+       <itunes:category text="Alternative Health" />
+    </itunes:category>
+    <itunes:category text="Health &amp; Fitness">
+       <itunes:category text="Nutrition" />
+    </itunes:category>
+
+    <item><!--Episode-->
+      <guid isPermaLink="true">http://linktoyourpodcast.com/episode-1.mp3</guid>
+      <title>Modern Medicine V.S. Herbal Medicine</title><!--Episode name-->
+      <link>http://linktoyourpodcast.com/episode-1</link>
+      <description>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you'll see both sides and the pros and cons of each.</description><!--description-->
+      <pubDate>Sun, 20 Feb 2023 03:40:02 PST</pubDate>
+      <author>Jack Barnum</author>
+      <content:encoded><![CDATA[<p>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you'll see both sides and the pros and cons of each.</p>]]></content:encoded>
+      <enclosure length="37424476" type="audio/mpeg" url="http://linktoyourpodcast.com/episode-1.mp3"/>
+      <itunes:title>Modern Medicine V.S. Herbal Medicine</itunes:title>
+      <itunes:author>Jack Barnum</itunes:author>
+      <itunes:image href="http://linktoyourpodcast.com/artwork.jpg"/>
+      <itunes:duration>00:51:18</itunes:duration><!--duration-->
+      <itunes:summary>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you'll see both sides and the pros and cons of each.</itunes:summary>
+      <itunes:keywords>herbal, medicine, herbal medicine, Morning Medicine, modern</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
