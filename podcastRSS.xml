@@ -4,6 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <htmlData><![CDATA[<html>
+        <head>
+            <title>Morning Medicine</title>
+        </head>
+        <body>
+        <p>Paste this link in any pdocast sevice to follow this podcast</p>
+        </body>
+        </html>
+     ]]>
+    </htmlData>
     <atom:link href="https://morningmedicine.github.io/podcastRSS" rel="self" type="application/rss+xml"/>
     <title>Morning Medicine</title>
     <description>Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.</description>
@@ -12,11 +22,11 @@
     <pubDate>Fri, 6 Feb 2023 23:35:48 PST</pubDate>
     <lastBuildDate>Fri, 6 Dec 2023 23:35:48 PST</lastBuildDate>
     <image>
-      <link>http://linktoyourpodcast.com</link>
+      <link>https://morningmedicine.github.io</link>
       <title>Morning Medicine</title>
-      <url>http://linktoyourpodcast.com/artwork.jpg</url>
+      <url>https://morningmedicine.github.io/MorningMedicine.jpeg</url>
     </image>
-    <link>http://linktoyourpodcast.com</link>
+    <link>https://morningmedicine.github.io</link>
     <itunes:type>episodic</itunes:type>
     <itunes:summary>Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.</itunes:summary>
     <itunes:author>Jack Barnum</itunes:author>
