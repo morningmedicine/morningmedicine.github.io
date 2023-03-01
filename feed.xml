@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://morningmedicine.github.io/feed.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://morningmedicine.github.io/feed.xml" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Morning Medicine</title>
   <lastBuildDate>Wed, 01 Mar 2023 11:36:03 -0500</lastBuildDate>
