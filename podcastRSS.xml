@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <atom:link href="http://linktoyourpodcast.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://morningmedicine.github.io/podcastRSS" rel="self" type="application/rss+xml"/>
     <title>Morning Medicine</title>
     <description>Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.</description>
     <copyright>Copyright 2023 Morning Medicine</copyright>
@@ -21,7 +21,7 @@
     <itunes:summary>Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.</itunes:summary>
     <itunes:author>Jack Barnum</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://linktoyourpodcast.com/artwork.jpg"/>
+    <itunes:image href="https://morningmedicine.github.io/MorningMedicine.jpeg"/>
     <itunes:keywords>herbal, medicine, morning, health, herbal medicine, Morning Medicine</itunes:keywords>
     <itunes:owner>
       <itunes:name>Jack Barnum</itunes:name>
@@ -38,17 +38,17 @@
     </itunes:category>
 
     <item><!--Episode-->
-      <guid isPermaLink="true">http://linktoyourpodcast.com/episode-1.mp3</guid>
+      <guid isPermaLink="true">https://morningmedicine.github.io/modern-medicine-v-s-herbal-medicine.mp3</guid>
       <title>Modern Medicine V.S. Herbal Medicine</title><!--Episode name-->
-      <link>http://linktoyourpodcast.com/episode-1</link>
+      <link>https://morningmedicine.github.io/modern-medicine-v-s-herbal-medicine.mp3</link>
       <description>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you'll see both sides and the pros and cons of each.</description><!--description-->
       <pubDate>Sun, 20 Feb 2023 03:40:02 PST</pubDate>
       <author>Jack Barnum</author>
       <content:encoded><![CDATA[<p>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you'll see both sides and the pros and cons of each.</p>]]></content:encoded>
-      <enclosure length="37424476" type="audio/mpeg" url="http://linktoyourpodcast.com/episode-1.mp3"/>
+      <enclosure length="37424476" type="audio/mpeg" url="https://morningmedicine.github.io/modern-medicine-v-s-herbal-medicine.mp3"/>
       <itunes:title>Modern Medicine V.S. Herbal Medicine</itunes:title>
       <itunes:author>Jack Barnum</itunes:author>
-      <itunes:image href="http://linktoyourpodcast.com/artwork.jpg"/>
+      <itunes:image href="https://morningmedicine.github.io/MorningMedicine.jpeg"/>
       <itunes:duration>00:51:18</itunes:duration><!--duration-->
       <itunes:summary>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you'll see both sides and the pros and cons of each.</itunes:summary>
       <itunes:keywords>herbal, medicine, herbal medicine, Morning Medicine, modern</itunes:keywords>
