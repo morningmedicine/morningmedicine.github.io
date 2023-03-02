@@ -8,8 +8,6 @@
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
             <link rel="stylesheet" href="https://morningmedicine.github.io/stylesheet.css">
             <title>Morning Medicine</title>
-            <meta name="description" content="Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.">
-            <meta name="keywords" content="herbal, medicine, morning, health, herbal medicine, Morning Medicine">
           </head>
           <body class="background">
             <h3 class="header">Copy this URL and paste it into any podcast sevice to follow</h3>
