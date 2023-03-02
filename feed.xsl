@@ -29,7 +29,8 @@
             </style>
           </head>
           <body class="background">
-            <h3 class="header">Copy this URL and paste it into any podcast sevice to follow</h3>
+            <h3 class="header">Copy this URL and paste it into any podcast sevice to follow:</h3>
+            <h3 class="header">https://morningmedicine.github.io/feed.rss</h3>
             <div class="intro">
               <img id="logo" src="https://morningmedicine.github.io/MorningMedicine.jpeg"/>
               <h1 class="header">Morning Medicine</h1>
