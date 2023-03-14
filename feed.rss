@@ -11,7 +11,7 @@
   <copyright>© 2023 Morning Medicine</copyright>
   <podcast:locked>yes</podcast:locked>
 <podcast:guid>3da5315e-8417-5136-ba29-c67ec22f738e</podcast:guid>
-  <itunes:author>Ed</itunes:author>
+  <itunes:author>Jack Barnum</itunes:author>
   <itunes:type>episodic</itunes:type>
   <itunes:explicit>false</itunes:explicit>
   <description><![CDATA[Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea. Disclaimer: I am not, nor am I holding myself out to be a doctor/physician, nurse, physician's assistant, advanced practice nurse, or any other medical professional ("Medical Provider"), psychiatrist, psychologist, therapist, counselor, or social worker ("Mental Health Provider"), registered dietician or licensed nutritionist, or member of the clergy. I am not providing health care, medical or nutritional therapy services, or attempting to diagnose, treat, prevent or cure any physical, mental or emotional issue, disease or condition. The information provided in or through my podcast is not intended to be a substitute for the professional medical advice, diagnosis or treatment provided by your own Medical Provider or Mental Health Provider. You agree and acknowledge that I am not providing medical advice, mental health advice, or religious advice in any way. Always seek the advice of your own or your child's Medical Provider and/or Mental Health Provider regarding any questions or concerns you have about your or your child's specific health or any medications, herbs or supplements you or your child are currently taking and before implementing any recommendations or suggestions from my podcast. Do not disregard medical advice or delay seeking medical advice because of information you have read or heared on this podcast. Do not start or stop taking any medications without speaking to your own or your child's Medical Provider or Mental Health Provider. If you or your child have or suspect that you have a medical or mental health problem, contact your own or your child's Medical Provider or Mental Health Provider promptly. ]]></description>
@@ -41,10 +41,24 @@
     <title>Modern Medicine V.S Herbal Medicine</title>
     <description><![CDATA[<p>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you&apos;ll see both sides and the pros and cons of each.</p>]]></description>
     <content:encoded><![CDATA[<p>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you&apos;ll see both sides and the pros and cons of each.</p>]]></content:encoded>
-    <itunes:author>Ed</itunes:author>
+    <itunes:author>Jack Barnum</itunes:author>
     <enclosure url="https://morningmedicine.github.io/Modern_Med-VS-Herbal.mp3" length="1644432" type="audio/mpeg" />
     <pubDate>Tue, 21 Feb 2023 21:00:00 -0800</pubDate>
     <itunes:duration>133</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <guid>https://morningmedicine.github.io/HerbalMedicineHistory.mp3</guid>
+    <itunes:title>History of Herbal Medicine</itunes:title>
+    <title>History of Herbal Medicine</title>
+    <description><![CDATA[<p>Sit back and learn the profound history of herbal Medicine.</p>]]></description>
+    <content:encoded><![CDATA[<p>Sit back and learn the profound history of herbal Medicine.</p>]]></content:encoded>
+    <itunes:author>Jack Barnum</itunes:author>
+    <enclosure url="https://morningmedicine.github.io/HerbalMedicineHistory.mp3" length="1644432" type="audio/mpeg" />
+    <pubDate>Tue, 13 Mar 2023 21:00:00 -0800</pubDate>
+    <itunes:duration>238</itunes:duration>
     <itunes:keywords></itunes:keywords>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
