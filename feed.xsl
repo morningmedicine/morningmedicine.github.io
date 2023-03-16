@@ -32,9 +32,7 @@
 			</audio>
 			<p>Sit back and learn the profound history of herbal Medicine.</p>
 		</div>
-		<div>
-		<p class="description">Disclaimer: I am not a doctor/physician, nurse, physician's assistant, or any other type of medical professional. I am not offering medical or nutritional therapy services, nor am I attempting to diagnose, treat, prevent, or cure any physical, mental, or emotional issue, disease, or condition. The information on my website is not intended to be a substitute for professional medical advice, diagnosis, or treatment from your own Medical Provider or Mental Health Provider. Always seek the advice of your own or your child's Medical Provider and/or Mental Health Provider before implementing any recommendations or suggestions from our Website. Do not disregard medical advice or delay seeking medical advice because of information you have read or heard on this Website.</p>		
-		</div>
+		<p class="description">Disclaimer: I am not a doctor/physician, nurse, physician's assistant, or any other type of medical professional. I am not offering medical or nutritional therapy services, nor am I attempting to diagnose, treat, prevent, or cure any physical, mental, or emotional issue, disease, or condition. The information on my website is not intended to be a substitute for professional medical advice, diagnosis, or treatment from your own Medical Provider or Mental Health Provider. Always seek the advice of your own or your child's Medical Provider and/or Mental Health Provider before implementing any recommendations or suggestions from our Website. Do not disregard medical advice or delay seeking medical advice because of information you have read or heard on this Website.</p>	
 	 </body>
         </html>
     </xsl:template>
