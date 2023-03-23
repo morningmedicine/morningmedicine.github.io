@@ -6,7 +6,27 @@
       <html>
         <head>
             <title>Morning Medicine</title>
-            <link rel="stylesheet" href="stylesheet.css"/>
+            <style>
+              .background {
+              	background-color: rgb(248 238 231);
+              }
+              .header {
+                	text-align: center;
+              }
+              .intro {
+                align-items: center;
+              }
+              .description {
+                text-align: center;
+                font-size: 20px;
+              }
+              #logo{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 25%;
+              }
+            </style>
           </head>
           <body class="background">
             <h3 class="header">Copy this URL and paste it into any podcast sevice to follow:</h3>
@@ -16,23 +36,7 @@
               <h1 class="header">Morning Medicine</h1>
               <p class="description">Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea.</p>
             </div>
-            		<div class="col-sm-12" class="episodes">
-			<h2>Modern Medicine V.S. Herbal Medicine</h2>
-			<audio controls>
-				<source src="https://morningmedicine.github.io/Modern_Med-VS-Herbal.mp3" type="audio/mp3">
-				Your browser does not support this file type
-			</audio>
-			<p>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you'll see both sides and the pros and cons of each.</p>
-		</div>
-		<div class="col-sm-12" class="episodes">
-			<h2>History of Herbal Medicine</h2>
-			<audio controls>
-				<source src="https://morningmedicine.github.io/HerbalMedicineHistory.mp3" type="audio/mp3">
-				Your browser does not support this file type
-			</audio>
-			<p>Sit back and learn the profound history of herbal Medicine.</p>
-		</div>
-	 </body>
+          </body>
         </html>
     </xsl:template>
 
