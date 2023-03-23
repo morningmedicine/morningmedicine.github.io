@@ -63,5 +63,19 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+    <item>
+    <guid>https://morningmedicine.github.io/Turmeric.mp3</guid>
+    <itunes:title>The Power of Turmeric + Golden Milk Recipe</itunes:title>
+    <title>The Power of Turmeric + Golden Milk Recipe</title>
+    <description><![CDATA[<p>Find out how powerful one little spice can be in this episode of Morning Medicine!</p>]]></description>
+    <content:encoded><![CDATA[<p>Find out how powerful one little spice can be in this episode of Morning Medicine!</p>]]></content:encoded>
+    <itunes:author>Jack Barnum</itunes:author>
+    <enclosure url="https://morningmedicine.github.io/Turmeric.mp3" length="1644432" type="audio/mpeg" />
+    <pubDate>Thu, 23 Mar 2023 21:00:00 -0800</pubDate>
+    <itunes:duration>436</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
