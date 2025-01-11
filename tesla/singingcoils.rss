@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://morningmedicine.github.io/feed.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://morningmedicine.github.io/feed.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Morning Medicine</title>
+  <lastBuildDate>Wed, 01 Mar 2023 11:36:03 -0500</lastBuildDate>
+  <link>https://morningmedicine.github.io</link>
+  <language>en-us</language>
+  <copyright>© 2023 Morning Medicine</copyright>
+  <podcast:locked>yes</podcast:locked>
+<podcast:guid>3da5315e-8417-5136-ba29-c67ec22f738e</podcast:guid>
+  <itunes:author>Jack Barnum</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[Listen to health tips, herbal recipes, and the benefits of herbal medicine, while you sip away at your coffee or tea. Disclaimer: I am not, nor am I holding myself out to be a doctor/physician, nurse, physician's assistant, advanced practice nurse, or any other medical professional ("Medical Provider"), psychiatrist, psychologist, therapist, counselor, or social worker ("Mental Health Provider"), registered dietician or licensed nutritionist, or member of the clergy. I am not providing health care, medical or nutritional therapy services, or attempting to diagnose, treat, prevent or cure any physical, mental or emotional issue, disease or condition. The information provided in or through my podcast is not intended to be a substitute for the professional medical advice, diagnosis or treatment provided by your own Medical Provider or Mental Health Provider. You agree and acknowledge that I am not providing medical advice, mental health advice, or religious advice in any way. Always seek the advice of your own or your child's Medical Provider and/or Mental Health Provider regarding any questions or concerns you have about your or your child's specific health or any medications, herbs or supplements you or your child are currently taking and before implementing any recommendations or suggestions from my podcast. Do not disregard medical advice or delay seeking medical advice because of information you have read or heared on this podcast. Do not start or stop taking any medications without speaking to your own or your child's Medical Provider or Mental Health Provider. If you or your child have or suspect that you have a medical or mental health problem, contact your own or your child's Medical Provider or Mental Health Provider promptly. ]]></description>
+  <itunes:keywords>herbal, medicine, morning, health, herbal medicine, Morning Medicine, </itunes:keywords>
+  <itunes:owner>
+    <itunes:name>Jack Barnum</itunes:name>
+    <itunes:email>ocwebexpert@gmail.com</itunes:email>
+  </itunes:owner>
+  <image>
+     <url>https://morningmedicine.github.io/MorningMedicine.jpeg</url>
+     <title>Morning Medicine</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://morningmedicine.github.io/MorningMedicine.jpeg" />
+  <itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Medicine" />
+  </itunes:category>
+  <itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Alternative Health" />
+  </itunes:category>
+  <itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Nutrition" />
+  </itunes:category>
+  <item>
+    <guid>https://morningmedicine.github.io/Modern_Med-VS-Herbal.mp3</guid>
+    <itunes:title>Modern Medicine V.S Herbal Medicine</itunes:title>
+    <title>Modern Medicine V.S Herbal Medicine</title>
+    <description><![CDATA[<p>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you&apos;ll see both sides and the pros and cons of each.</p>]]></description>
+    <content:encoded><![CDATA[<p>A highly debated topic, modern medicine or herbal medicine. Which one is better? In this episode you&apos;ll see both sides and the pros and cons of each.</p>]]></content:encoded>
+    <itunes:author>Jack Barnum</itunes:author>
+    <enclosure url="https://morningmedicine.github.io/Modern_Med-VS-Herbal.mp3" length="1644432" type="audio/mpeg" />
+    <pubDate>Tue, 21 Feb 2023 21:00:00 -0800</pubDate>
+    <itunes:duration>133</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <guid>https://morningmedicine.github.io/HerbalMedicineHistory.mp3</guid>
+    <itunes:title>History of Herbal Medicine</itunes:title>
+    <title>History of Herbal Medicine</title>
+    <description><![CDATA[<p>Sit back and learn the profound history of herbal Medicine.</p>]]></description>
+    <content:encoded><![CDATA[<p>Sit back and learn the profound history of herbal Medicine.</p>]]></content:encoded>
+    <itunes:author>Jack Barnum</itunes:author>
+    <enclosure url="https://morningmedicine.github.io/HerbalMedicineHistory.mp3" length="1644432" type="audio/mpeg" />
+    <pubDate>Tue, 13 Mar 2023 21:00:00 -0800</pubDate>
+    <itunes:duration>305</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+    <item>
+    <guid>https://morningmedicine.github.io/Turmeric.mp3</guid>
+    <itunes:title>The Power of Turmeric + Golden Milk Recipe</itunes:title>
+    <title>The Power of Turmeric + Golden Milk Recipe</title>
+    <description><![CDATA[<p>Find out how powerful one little spice can be in this episode of Morning Medicine!</p>]]></description>
+    <content:encoded><![CDATA[<p>Find out how powerful one little spice can be in this episode of Morning Medicine!</p>]]></content:encoded>
+    <itunes:author>Jack Barnum</itunes:author>
+    <enclosure url="https://morningmedicine.github.io/Turmeric.mp3" length="1644432" type="audio/mpeg" />
+    <pubDate>Thu, 23 Mar 2023 21:00:00 -0800</pubDate>
+    <itunes:duration>436</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
